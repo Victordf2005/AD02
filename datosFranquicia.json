@@ -1,0 +1,11 @@
+{
+  "tendas": [
+    {
+      "nome": "Lugo 1",
+      "cidade": "Lugo",
+      "produtos": [],
+      "empregados": []
+    }
+  ],
+  "clientes": []
+}
